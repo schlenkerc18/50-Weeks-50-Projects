@@ -1,0 +1,134 @@
+OverallRank,Player,Position,PosRank,Rating
+1,Justin Jefferson,WR,1,975
+2,Ja'Marr Chase,WR,2,950
+3,Tyreek Hill,WR,3,930
+4,Nick Chubb,RB,1,925
+5,A.J. Brown,WR,4,925
+6,Stefon Diggs,WR,5,905
+7,Travis Kelce,TE,1,875
+8,Austin Ekeler,RB,2,875
+9,Mark Andrews ,TE,2,850
+10,Christain McCaffrey,RB,3,850
+11,Bijan Robinson,RB,4,805
+12,Saquon Barkley,RB,5,775
+13,Garrett Wilson,WR,6,755
+14,Josh Jacobs,RB,6,750
+15,Josh Allen,QB,1,730
+16,CeeDee Lamb,WR,8,710
+17,Davante Adams,WR,7,710
+18,Tony Pollard,RB,7,705
+19,Jalen Hurts,QB,3,680
+20,Patrick Mahomes II,QB,2,680
+21,DeVonta Smith,WR,9,680
+22,Cooper Kupp,WR,10,665
+23,Derrick Henry,RB,8,660
+24,Joe Mixon,RB,10,655
+25,Chris Olave,WR,11,655
+26,Jahmyr Gibbs,RB,9,655
+27,Jaylen Waddle,WR,12,635
+28,Rhamondre Stevenson,RB,11,610
+29,Darren Waller,TE,3,610
+30,Amari Cooper,WR,13,595
+31,T.J. Hockenson,TE,4,590
+32,Aaron Jones ,RB,12,565
+33,Amon-Ra St. Brown,WR,14,565
+34,Tee Higgins,WR,15,560
+35,Calvin Ridley,WR,16,530
+36,J.K. Dobbins,RB,13,525
+37,Miles Sanders,RB,14,520
+38,George Kittle,TE,5,510
+39,Justin Fields,QB,4,510
+40,Joe Burrow,QB,5,505
+41,Lamar Jackson,QB,6,505
+42,DeAndre Hopkins,WR,17,500
+43,DK Metcalf,WR,18,495
+44,Trevor Lawrence,QB,7,485
+45,Kenneth Walker III,RB,15,480
+46,Deebo Samuel,WR,19,470
+47,Justin Herbert,QB,8,455
+48,Christian Watson,WR,20,455
+49,Cam Akers,RB,16,450
+50,George Pickens,WR,22,440
+51,Tyler Lockett,WR,21,440
+52,Breece Hall,RB,17,435
+53,James Cook,RB,20,430
+54,Javonte Williams,RB,19,430
+55,Travis Etienne Jr.,RB,18,430
+56,Diontae Johnson,WR,23,405
+57,Alvin Kamara,RB,22,385
+58,Najee Harris,RB,21,385
+59,Evan Engram,TE,6,380
+60,Khalil Herbert,RB,23,365
+61,Keenan Allen,WR,25,365
+62,Terry McLaurin,WR,24,365
+63,Mike Williams,WR,26,355
+64,Chris Godwin,WR,27,350
+65,DJ Moore,WR,28,345
+66,Marquise Brown,WR,29,325
+67,Isiah Pacheco,RB,24,325
+68,Dameon Pierce,RB,26,325
+69,Alexander Mattison,RB,25,325
+70,Christian Kirk,WR,30,311
+71,Michael Thomas,WR,31,310
+72,Jahan Dotson,WR,32,310
+73,Jerry Jeudy,WR,33,305
+74,Zay Flowers,WR,34,270
+75,AJ Dillon,RB,27,270
+76,Mike Evans,WR,35,265
+77,James Conner,RB,28,259
+78,David Montgomery,RB,29,245
+79,Deshaun Watson,QB,9,240
+80,Jordan Addison,WR,36,230
+81,Rashaad Penny,RB,30,226
+82,Rachaad White,RB,31,220
+83,Dalton Kincaid,TE,7,210
+84,Dalvin Cook,RB,32,205
+85,Brandon Aiyuk,WR,37,205
+86,Quentin Johnston,WR,38,190
+87,Jamaal Williams,RB,33,185
+88,Raheem Mostert,RB,35,180
+89,Brian Robinson Jr.,RB,34,180
+90,Ezekiel Elliott,RB,36,179
+91,Gabriel Davis,WR,39,178
+92,Courtland Sutton,WR,40,165
+93,Drake London ,WR,41,160
+94,Kyle Pitts,TE,8,155
+95,Taysom Hill,TE,9,145
+96,Samaje Perine,RB,37,140
+97,Odell Beckham Jr.,WR,44,125
+98,Brandin Cooks,WR,43,125
+99,Jaxon Smith-Njigba,WR,42,125
+100,Jeff wilson Jr.,RB,38,100
+101,Treylon Burks,WR,45,85
+102,Anthony Richardson,QB,10,70
+103,Cole Kmet,TE,10,66
+104,Jonathan Taylor,RB,39,60
+105,Jaylen Warren,RB,41,60
+106,Antonio Gibson,RB,40,60
+107,Zach Charbonnet,RB,42,60
+108,Tank Bigsby,RB,43,60
+109,Jakobi Meyers,WR,46,60
+110,Daniel Jones,QB,12,45
+111,Geno Smith,QB,11,45
+112,Darnell Mooney,WR,47,40
+113,Greg Dulcich,TE,11,25
+114,D'Andre Swift,RB,45,20
+115,Tyler Allgeier,RB,44,20
+116,Michael Pittman Jr.,WR,48,20
+117,Tyler Conklin,TE,12,10
+118,Aaron Rodgers,QB,13,5
+119,Leonard Fournette,RB,46,0
+120,Jerick McKinnon,RB,47,-20
+121,De'Von Achane,RB,48,-20
+122,Zay Jones,WR,49,-35
+123,Cordarrelle Patterson,RB,49,-60
+124,Kendre Miller,RB,50,-60
+125,Kirk Cousins,QB,14,-75
+126,Devin Singletary,RB,51,-80
+127,JuJu Smith-Schuster,WR,50,-80
+128,Chigoziem Okonkwo,TE,13,-135
+129,Donovan Peoples-Jones,WR,51,-175
+130,Hunter Hentry,TE,15,-200
+131,Juwan Johnson,TE,14,-200
+132,Jared Goff,QB,15,-240
+133,Dawson Knox,TE,16,-240
