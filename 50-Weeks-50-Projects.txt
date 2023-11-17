@@ -1,0 +1,33 @@
+50 weeks 50 Projects:
+
+Week 1: Created Lin. Reg. to predict an MLB team's wins based on salary
+Week 2: Created Lin. Reg. to predict PPG based on player's salary
+Week 3: Created Log. Reg. to predict death based on individual's age
+Week 4: Created Mult. Lin. Reg. to predict PPG
+Week 5: Started Web Project for Animal Shelter
+Week 6: Created Mult. Log. Reg. to predict Covid Death
+Week 7: Created Mult. Lin. Reg. to predict WR Rec Yds
+Week 8: KNN to predict NFL draft based on player production
+Week 9: RF on Cleveland Heart Dataset
+Week 10: RF on Cancer Dataset
+Week 11: RF on Survival Dataset
+Week 12: Mult. Log. Reg. on Pima Indians Dataset
+Week 13: RF Model on Loan Dataset
+Week 14: RF Model and XGBoost on Conversion Dataset
+Week 15: Classification Perceptron on Diabetes Dataset
+Week 16: Classification Perceptron on Elo ratings
+Week 17: Classification on NBA elo ratings to Predict Win
+Week 18: Affairs EDA
+Week 19: Heart Failure Classification
+Week 20: TF Classification on Insurance Dataset
+Week 21: TF Regression on Salary Dataset
+Week 22: TF Polynomial Regression on Life Expectancy
+Week 23: TF Classification on Heart Failure Dataset
+Week 24: TF Classification on Indian Liver Dataset
+Week 25: TF Regression on Medical Price Datset
+Week 26: Multiclassification on Wine Quality
+Week 27: Classification on Bank Customer Churn
+Week 28: Regression on RBs
+Week 29: Regression on QBs
+Week 30: Regression on WRs
+Week 31: TBD
